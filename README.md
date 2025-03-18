@@ -1,6 +1,6 @@
 ## FelipeMRB | Front-End Developer
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfreshzdev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfreshzdev&show&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devFelipeMRB&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devFelipeMRB&show&layout=compact&theme=dark)
 
 ## Tecnologias Front-End & Back-End
 <div>
