@@ -31,8 +31,9 @@ Sou um entusiasta de tecnologia focado em criar soluções digitais de alto impa
 
 ---
 
-### 📫 Vamos nos conectar?
-* **Empresa:** [Devly](https://github.com/devFelipeMRB)
+### 📫 Vamos fechar negócio?
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514996575158?text=Olá%20Felipe,%20vi%20seu%20GitHub%20e%20gostaria%20de%20um%20orçamento%20com%20a%20Devly!)
+* **Empresa:** [Devly](https://mail.google.com/mail/u/0/?fs=1&to=suporte@devlyteam.com.brL&su=Comunicado+ao+Suporte&body=Eu+queria+saber...&tf=cm) 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipe-moura-russo-de-barros-112754287/)
   
 
