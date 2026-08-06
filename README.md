@@ -6,7 +6,7 @@ Sou um entusiasta de tecnologia focado em criar soluções digitais de alto impa
 ---
 
 ### 🎓 Formação Acadêmica & Técnica
-* **Engenharia da Computação** – UNIVESP (Cursando)
+* **Sistemas Inteligentes** – FATEC (Cursando)
 * **Técnico em Redes de Computadores** – ETEC (2025)
 * **Técnico em Suporte de T.I** – ETEC (2023)
 
