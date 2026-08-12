@@ -3,108 +3,144 @@
   <a href="#-português">🇧🇷 Português</a> | <a href="#-english">🇺🇸 English</a>
 </div>
 
----
+<br>
 
 # <a id="-português"></a> 🇧🇷 Português
 
-# Olá, eu sou o Felipe! 👋
-
-### 👨‍💻 Entusiasta de Cyber Security & Focado na Área de Dados
-Sou apaixonado por tecnologia, com um grande interesse em **Cyber Security**, mas com meu foco principal voltado para a área de **Dados**. Meu objetivo é transformar dados brutos em insights estratégicos e soluções de negócios utilizando **Python** e **Power BI**.
-
----
-
-### 🎓 Formação Acadêmica & Técnica
-* **Sistemas Inteligentes** – FATEC (Cursando)
-* **Técnico em Redes de Computadores** – ETEC (2025)
-* **Técnico em Suporte de T.I** – ETEC (2023)
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-| Dados & Backend | Frontend | Infra, Redes & Ferramentas |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | |
-
----
-
-### 📈 No que estou trabalhando agora?
-* 📊 **Análise de Dados:** Construindo dashboards interativos no Power BI e desenvolvendo scripts de automação/análise com Python.
-* 🛡️ **Segurança e Redes:** Estudando conceitos aprofundados de redes e Cyber Security.
-* 🎓 **Evolução:** Focado em dominar Docker e AWS para tornar ambientes e projetos de dados mais escaláveis.
-
----
-
-### 📊 Linguagens mais utilizadas
-*(Os dados abaixo são gerados dinamicamente com base nos meus repositórios)*
-
 <div align="center">
-  <!-- ATENÇÃO: Troque "SEU_USUARIO_GITHUB" pelo seu nome de usuário (ex: felipe-moura) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=dark" />
+  
+  <!-- Substitua pelo seu nome se quiser -->
+  <h1>Olá, eu sou o Felipe! 👋</h1>
+  
+  <!-- Animação de digitação moderna -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Entusiasta+de+Cyber+Security;Focado+em+Dados+%26+Python;Transformando+Dados+em+Decisões" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br>
 
-### 📫 Vamos conversar?
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514996575158?text=Olá%20Felipe,%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20dados/tecnologia!)
-* **LinkedIn:** [Felipe Moura Russo de Barros](https://www.linkedin.com/in/felipe-moura-russo-de-barros-112754287/)
+### 👨‍💻 Sobre Mim
+Sou apaixonado por tecnologia com forte interesse em **Cyber Security**, focado em estruturar minha carreira na área de **Dados**. Meu objetivo principal é transformar informações complexas em insights estratégicos utilizando **Python** e **Power BI**.
 
-*"Transformando dados em decisões inteligentes e sistemas seguros."*
+- 🎓 Cursando **Sistemas Inteligentes** na FATEC.
+- 🎓 Técnico em **Redes de Computadores** (2025) e **Suporte de TI** (2023) pela ETEC.
+- 🚀 Atualmente estudando infraestrutura escalável (Docker/AWS) e conceitos avançados de segurança.
 
-<br><br>
+<br>
 
----
+### 🛠️ Tecnologias e Ferramentas
+
+<details open>
+  <summary><b>Dados, Segurança & Backend</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</details>
+
+<details open>
+  <summary><b>Desenvolvimento Web & Infraestrutura</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</details>
+
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- ATENÇÃO: Substitua "SEU_USUARIO_GITHUB" pelo seu @ real do GitHub -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
+</div>
+
+<br>
+
+### 📫 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-moura-russo-de-barros-112754287/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5514996575158?text=Olá%20Felipe,%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20tecnologia!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<br>
+<hr>
+<br>
 
 # <a id="-english"></a> 🇺🇸 English
 
-# Hi, I'm Felipe! 👋
+<div align="center">
+  
+  <h1>Hi, I'm Felipe! 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Cyber+Security+Enthusiast;Data+%26+Python+Focused;Transforming+Data+into+Decisions" alt="Typing SVG" />
+  </a>
+</div>
 
-### 👨‍💻 Cyber Security Enthusiast & Data-Focused Professional
-I am passionate about technology, with a strong interest in **Cyber Security**, but my main focus is on the **Data** field. My goal is to transform raw data into strategic insights and business solutions using **Python** and **Power BI**.
+<br>
 
----
+### 👨‍💻 About Me
+I am passionate about technology with a strong interest in **Cyber Security**, currently focusing my career on the **Data** field. My main goal is to transform complex information into strategic insights using **Python** and **Power BI**.
 
-### 🎓 Education
-* **Intelligent Systems** – FATEC (In Progress)
-* **Computer Networks Technician** – ETEC (2025)
-* **IT Support Technician** – ETEC (2023)
+- 🎓 Studying **Intelligent Systems** at FATEC.
+- 🎓 **Computer Networks** (2025) and **IT Support** (2023) Technician from ETEC.
+- 🚀 Currently studying scalable infrastructure (Docker/AWS) and advanced security concepts.
 
----
+<br>
 
 ### 🛠️ Technologies & Tools
 
-| Data & Backend | Frontend | Infra, Networks & Tools |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | |
+<details open>
+  <summary><b>Data, Security & Backend</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</details>
 
----
+<details open>
+  <summary><b>Web Development & Infrastructure</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</details>
 
-### 📈 What am I working on right now?
-* 📊 **Data Analysis:** Building interactive dashboards in Power BI and developing automation/analysis scripts with Python.
-* 🛡️ **Security & Networks:** Studying advanced networking and Cyber Security concepts.
-* 🎓 **Evolution:** Focused on mastering Docker and AWS to build scalable environments and data projects.
+<br>
 
----
-
-### 📊 Most used languages
-*(Data below is dynamically generated based on my repositories)*
+### 📊 GitHub Stats
 
 <div align="center">
-  <!-- ATTENTION: Replace "SEU_USUARIO_GITHUB" with your GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=dark" />
+  <!-- ATTENTION: Replace "SEU_USUARIO_GITHUB" with your actual GitHub username -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </div>
 
----
+<br>
 
-### 📫 Let's connect!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514996575158?text=Hi%20Felipe,%20I%20saw%20your%20GitHub%20and%20would%20like%20to%20connect!)
-* **LinkedIn:** [Felipe Moura Russo de Barros](https://www.linkedin.com/in/felipe-moura-russo-de-barros-112754287/)
+### 📫 Connect with me
 
-*"Transforming data into smart decisions and secure systems."*
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-moura-russo-de-barros-112754287/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5514996575158?text=Hi%20Felipe,%20I%20saw%20your%20GitHub%20and%20would%20like%20to%20chat%20about%20tech!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+</div>
